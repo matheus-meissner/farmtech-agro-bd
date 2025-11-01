@@ -2,7 +2,9 @@
 
 ### FIAP - Faculdade de Informática e Administração Paulista  
 <img width="2385" height="642" alt="image" src="https://github.com/user-attachments/assets/86979b32-ae7f-46a5-ba0e-1ada46f10914" />
+
 **Curso:** Inteligência Artifical e Machine Learning
+
 **Aluno:** Matheus Meissner – RM567080  
 
 ---
