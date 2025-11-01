@@ -1,10 +1,11 @@
 # 🌾 FarmTech Agro
 
 ### FIAP - Faculdade de Informática e Administração Paulista  
-<img width="2385" height="642" alt="image" src="https://github.com/user-attachments/assets/86979b32-ae7f-46a5-ba0e-1ada46f10914" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86979b32-ae7f-46a5-ba0e-1ada46f10914" alt="FIAP Logo" width="300">
+</p>
 
 **Curso:** Inteligência Artifical e Machine Learning
-
 **Aluno:** Matheus Meissner – RM567080  
 
 ---
@@ -123,11 +124,11 @@ RM567080 – FIAP | Inteligência Artificial e Machine Learning
 ## 🖼️ Evidências do Banco de Dados
 
 <p align="center">
-  <img src="prints/estrutura_sensores.png" alt="Estrutura da tabela" width="80%">
+  <img src="./banco/prints/estrutura_sensores.png" alt="Estrutura da tabela" width="80%">
 </p>
 
 <p align="center">
-  <img src="prints/select_sensores.png" alt="Consulta dos dados" width="80%">
+  <img src="./banco/prints/select_sensores.png" alt="Consulta dos dados" width="80%">
 </p>
 
 ---
